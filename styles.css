@@ -1,0 +1,26 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 600px;
+  font-family: helvetica;
+  background-color: #999999;
+  text-align: center;
+}
+.hex {
+  background-color: white;
+  display: block;
+  padding: 1em 0.5em;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  font-size: 2em;
+}
+
+button {
+  padding: 15px 10px;
+  border: none;
+  background-color: #353535;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+}
